@@ -1,2 +1,6 @@
 print(100)
 print(10,20,30)
+print(10,20,30,sep="*")
+print(10)
+print(20)
+print(10,20,30,sep="_")
